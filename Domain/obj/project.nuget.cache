@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mb2Yellkr0mtnCVN+We3smTx0KV2qtbrBcsSTjz3FUw572KTH/2xXQV15GrA0+syPngYXKmiw61j4cJ2CTb2fQ==",
+  "dgSpecHash": "LbDGcH3muytb52KALQBJchejomK+EY2S1fR8KnLvUMO73qpqpbqkF+45WDQUKQPZGvlA6Wznf6VkASkWk/04Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gerco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

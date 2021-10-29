@@ -972,37 +972,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\4dagi\\.nuget\\packages\\": {}
+    "C:\\Users\\Gerco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\4dagi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Gerco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\4dagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Gerco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Gerco\\PycharmProjects\\pythonProject\\PraticaGit\\ReactivitiesGerson\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1026,12 +1024,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
