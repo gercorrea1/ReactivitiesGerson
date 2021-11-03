@@ -28,7 +28,7 @@ C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Appli
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
-C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.dll
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
