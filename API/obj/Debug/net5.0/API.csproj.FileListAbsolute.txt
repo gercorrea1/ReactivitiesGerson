@@ -122,3 +122,7 @@ C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\o
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\obj\Debug\net5.0\API.pdb
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\bin\Debug\net5.0\MediatR.dll
+C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gerco\PycharmProjects\pythonProject\PraticaGit\ReactivitiesGerson\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
